@@ -4,7 +4,7 @@ title: Home
 display_name: Kayvon Sheared                 # <- shown as the big display name on the hero
 description: My CEAMLS SAIRI Summer Research Site
 
-motto: "Curious about how research can shape better tools for everyday life."
+motto: "Maximize the now"
 
 quick_facts:
   - "🎓 Senior, Psychological sciences"
@@ -13,7 +13,7 @@ quick_facts:
   - "🍋 I love lemons"
 
 linkedin: https://www.linkedin.com/in/kayvon-sheared
-image: /assets/images/profile.svg
+image: assets/images/IMG_6992.jpg
 
 # A "Currently" block — three short status lines for the home page.
 currently:
