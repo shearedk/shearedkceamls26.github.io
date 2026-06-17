@@ -37,6 +37,6 @@ about:
       caption: A beach day in Montego Bay, Jamaica
     - image: /assets/images/IMG_2549.jpeg
       caption: Dinner with my best friends 
-    - image: /assets/images/gallery-3.svg
+    - image: /assets/images/IMG_3909.jpeg
       caption: Hanging out with friends after class.
 ---
