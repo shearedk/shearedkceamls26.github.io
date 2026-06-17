@@ -33,8 +33,8 @@ about:
       description: "Whether it's exploring the city, trying new restaurants, attending events, or simply relaxing together, I value the connections and memories I build with friends."
 
   gallery:
-    - image: /assets/images/gallery-1.svg
-      caption: A great day on the trail.
+    - image: /assets/images/IMG_8359.jpeg
+      caption: A beach day in Montego Bay, Jamaica
     - image: /assets/images/gallery-2.svg
       caption: One of my recent illustrations.
     - image: /assets/images/gallery-3.svg
