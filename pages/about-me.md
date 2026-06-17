@@ -7,7 +7,7 @@ about:
   name: Kayvon Sheared
   role:  "Senior, Psychological Sciences Major, Biology Minor"
   image: /assets/images/IMG_6992.jpg
-  linkedin: www.linkedin.com/in/kayvon-sheared
+  linkedin: https://www.linkedin.com/in/kayvon-sheared
   bio: |
     Hi! I'm Kayvon Sheared, a senior Psychological Sciences major with a minor in Biology at Xavier University of Louisiana and a    
     participant in the CEAMLS SAIRI Summer Research Program. As a first-generation college student from Flint, Michigan, I am passionate 
