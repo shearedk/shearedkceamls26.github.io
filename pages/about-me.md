@@ -5,7 +5,7 @@ permalink: /about-me.html
 
 about:
   name: Kayvon Sheared
-  role:  Senior, Psychological Sciences Major | Biology Minor
+  role:  Senior, Psychological Sciences Major, Biology Minor
   image: /assets/images/profile.svg
   linkedin: 
   bio: |
