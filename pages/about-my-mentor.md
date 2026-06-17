@@ -27,7 +27,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Blessing Ojeme
   title: Assistant Professor, Department of Computer Science
-  image: /assets/images/faculty-mentor.svg
+  image: /assets/images/WIN_20240527_10_29_53_Pro - Blessing Ojeme.png
   website: https://www.morgan.edu/ceamls/about/team/blessing-ojeme
   bio: |
     Dr. Blessing Ojeme is an Assistant Professor in the Department of Computer Science
