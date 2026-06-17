@@ -35,8 +35,8 @@ about:
   gallery:
     - image: /assets/images/IMG_8359.jpeg
       caption: A beach day in Montego Bay, Jamaica
-    - image: /assets/images/gallery-2.svg
-      caption: One of my recent illustrations.
+    - image: /assets/images/IMG_2549.jpeg
+      caption: Dinner with my best friends 
     - image: /assets/images/gallery-3.svg
       caption: Hanging out with friends after class.
 ---
