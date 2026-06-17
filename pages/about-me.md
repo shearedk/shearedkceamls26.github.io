@@ -5,7 +5,7 @@ permalink: /about-me.html
 
 about:
   name: Kayvon Sheared
-  role:  Senior, Psychological Sciences Major, Biology Minor
+  role:  "Senior, Psychological Sciences Major, Biology Minor"
   image: /assets/images/profile.svg
   linkedin: www.linkedin.com/in/kayvon-sheared
   bio: |
@@ -14,13 +14,13 @@ about:
   hobbies:
     - icon: ✈️
       title: Traveling
-      description: I enjoy exploring new cities, experiencing different cultures, and creating unforgettable memories.
+      description: "I enjoy exploring new cities, experiencing different cultures, and creating unforgettable memories."
     - icon: 🏋️
       title: Working Out
-      description: Staying active through fitness helps me maintain discipline, focus, and overall wellness.
+      description: "Staying active through fitness helps me maintain discipline, focus, and overall wellness."
     - icon: 👥
       title: Spending Time with Friends
-      description: Whether it's exploring the city, trying new restaurants, attending events, or simply relaxing together, I value the connections and memories I build with friends.
+      description: "Whether it's exploring the city, trying new restaurants, attending events, or simply relaxing together, I value the connections and memories I build with friends."
 
   gallery:
     - image: /assets/images/gallery-1.svg
