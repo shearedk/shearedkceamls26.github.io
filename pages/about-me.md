@@ -8,6 +8,7 @@ about:
   role:  Senior, Psychological Sciences Major, Biology Minor
   image: /assets/images/profile.svg
   linkedin: www.linkedin.com/in/kayvon-sheared
+  
   bio: |
         Hi! I'm Kayvon Sheared, a senior Psychological Sciences major with a minor in Biology at Xavier University of Louisiana and a participant in the CEAMLS SAIRI Summer Research Program.
     My academic interests center around psychology, medicine, behavioral health, and artificial intelligence. Through my research, I explore how machine learning can be applied to healthcare, particularly in improving clinical decision-making and promoting fairness in medical AI systems.
