@@ -4,30 +4,27 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Clyde Tandjong
-  role: Junior, Computer Science
+  name: Kayvon Sheared
+  role:  Senior, Psychological Sciences Major | Biology Minor
   image: /assets/images/profile.svg
-  linkedin: https://www.linkedin.com/in/example
+  linkedin: www.linkedin.com/in/kayvon-sheared
   bio: |
-    Hi! I'm Clyde, a Computer Science student in the CEAMLS SAIRI Summer Research program.
+        Hi! I'm Kayvon Sheared, a senior Psychological Sciences major with a minor in Biology at Xavier University of Louisiana and a participant in the CEAMLS SAIRI Summer Research Program.
 
-    My research interests sit at the intersection of human-computer interaction and applied
-    machine learning. I'm especially curious about how everyday tools can be made more
-    accessible and adaptive through smart software.
+    My academic interests center around psychology, medicine, behavioral health, and artificial intelligence. Through my research, I explore how machine learning can be applied to healthcare, particularly in improving clinical decision-making and promoting fairness in medical AI systems.
 
-    Outside of class, you'll find me biking trails, learning languages, or working on small
-    side projects with friends.
+    Beyond the classroom, I serve as a mentor, community outreach worker, and student leader. My long-term goal is to become a psychiatrist and use research, advocacy, and community engagement to improve health outcomes in underserved communities.
 
   hobbies:
-    - icon: 🎨
-      title: Digital Art
-      description: I make small illustrations and pixel art in my spare time.
-    - icon: 🚲
-      title: Biking
-      description: Weekend trail rides are how I reset.
-    - icon: 📚
-      title: Reading
-      description: Sci-fi novels and design essays — both equally inspiring.
+    - icon: ✈️
+      title: Traveling
+      description: I enjoy exploring new cities, experiencing different cultures, and creating unforgettable memories.
+    - icon: 🏋️
+      title: Working Out
+      description: Staying active through fitness helps me maintain discipline, focus, and overall wellness.
+    - icon: 👥
+      title: Spending Time with Friends
+      description: Whether it's exploring the city, trying new restaurants, attending events, or simply relaxing together, I value the connections and memories I build with friends.
 
   gallery:
     - image: /assets/images/gallery-1.svg
