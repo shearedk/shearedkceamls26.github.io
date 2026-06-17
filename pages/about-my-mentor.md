@@ -47,7 +47,5 @@ faculty_mentor:
     approaches to solve complex problems and create meaningful societal impact. His 
     mentorship has provided valuable insight into research, professional development, 
     and the responsible application of artificial intelligence in healthcare and beyond.
-
-    Dr. Nguyen has mentored many SAIRI students and is a champion for broadening
     participation in computing.
 ---
