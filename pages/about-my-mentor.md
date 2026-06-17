@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Sudip Sharma
   title: Graduate Student, Advanced Computing
-  image: /assets/images/graduate-student-mentor.svg
+  image: /assets/images/Sudip.png
   website: https://sudipsharma013.com.np/
   bio: |
     Sudip Sharma is a graduate student in Advanced Computing at Morgan State University
